@@ -1,5 +1,5 @@
 ## Jess's First CS193 Lab
-# These are some of my favorite things about CS193:
+### These are some of my favorite things about CS193:
 - It's only two credit hours!
 - It covers topics that are useful
 - It's a CS class, which makes me feel like a real CS major :)
