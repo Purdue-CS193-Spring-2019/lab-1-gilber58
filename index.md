@@ -8,7 +8,7 @@
 
 ### Here is a cute lil chunky hamster to brighten your day :smile:
 
-![Image](Cuteanimal.jpg " Here is a cute lil chunky hamster to brighten your day :smile: ")
+![Image](Cuteanimal.jpg)
 
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
